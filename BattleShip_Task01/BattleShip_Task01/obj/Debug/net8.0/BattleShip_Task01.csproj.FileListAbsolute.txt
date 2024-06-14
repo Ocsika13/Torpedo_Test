@@ -26,3 +26,18 @@ C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Debu
 C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.pdb
 C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.genruntimeconfig.cache
 C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\ref\BattleShip_Task01.dll
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\bin\Debug\net8.0\BattleShip_Task01.exe
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\bin\Debug\net8.0\BattleShip_Task01.deps.json
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\bin\Debug\net8.0\BattleShip_Task01.runtimeconfig.json
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\bin\Debug\net8.0\BattleShip_Task01.dll
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\bin\Debug\net8.0\BattleShip_Task01.pdb
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.AssemblyInfoInputs.cache
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.AssemblyInfo.cs
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.csproj.CoreCompileInputs.cache
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.sourcelink.json
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.dll
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\refint\BattleShip_Task01.dll
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.pdb
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\BattleShip_Task01.genruntimeconfig.cache
+C:\Download\GIT_Test\BattleShip_Task01\BattleShip_Task01\obj\Debug\net8.0\ref\BattleShip_Task01.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# ChatGPT Tasks\\Kalydy_Oktatás\\BattleShip_Task01\\BattleShip_Task01\\BattleShip_Task01.csproj": {}
+    "C:\\Download\\GIT_Test\\BattleShip_Task01\\BattleShip_Task01\\BattleShip_Task01.csproj": {}
   },
   "projects": {
-    "C:\\C# ChatGPT Tasks\\Kalydy_Oktatás\\BattleShip_Task01\\BattleShip_Task01\\BattleShip_Task01.csproj": {
+    "C:\\Download\\GIT_Test\\BattleShip_Task01\\BattleShip_Task01\\BattleShip_Task01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# ChatGPT Tasks\\Kalydy_Oktatás\\BattleShip_Task01\\BattleShip_Task01\\BattleShip_Task01.csproj",
+        "projectUniqueName": "C:\\Download\\GIT_Test\\BattleShip_Task01\\BattleShip_Task01\\BattleShip_Task01.csproj",
         "projectName": "BattleShip_Task01",
-        "projectPath": "C:\\C# ChatGPT Tasks\\Kalydy_Oktatás\\BattleShip_Task01\\BattleShip_Task01\\BattleShip_Task01.csproj",
+        "projectPath": "C:\\Download\\GIT_Test\\BattleShip_Task01\\BattleShip_Task01\\BattleShip_Task01.csproj",
         "packagesPath": "C:\\Users\\ocsovszkit\\.nuget\\packages\\",
-        "outputPath": "C:\\C# ChatGPT Tasks\\Kalydy_Oktatás\\BattleShip_Task01\\BattleShip_Task01\\obj\\",
+        "outputPath": "C:\\Download\\GIT_Test\\BattleShip_Task01\\BattleShip_Task01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

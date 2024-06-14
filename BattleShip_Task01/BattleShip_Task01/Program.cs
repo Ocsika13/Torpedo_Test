@@ -50,22 +50,8 @@
 
         static void Main(string[] args)
         {
-            //Játék indítása + név megadása
-            Console.Title = "Torpedo";
-            int start_Battle_Counter = 3;
-            Console.WriteLine("BATTLE BEGIN");
-
-            //Játék előtti számolás móka kijelzés
-            for (int i = 0; i < 3; i++)
-            {
-                Console.WriteLine("Battel Start in: " + start_Battle_Counter);
-                start_Battle_Counter--;
-                Thread.Sleep(2000);
-                Console.Clear();
-            }
-            //Pályák megtervezése6felosztása
-            Random_Battlefield(battlefield_Player);
-            Random_Battlefield(battlefield_CPU);
+            Welcome();
+            Battle_Start_Counter();
 
             do {
                 Console.WriteLine("Player Fields");
@@ -199,7 +185,31 @@
             
 
         }
+        public static void Welcome()
+        {
+            //Játék köszöntő + név megadása
+            Console.Title = "Torpedo";
+            
+            Console.WriteLine(" HELLO IN TORPEDO BATTLE");
+            Thread.Sleep(2000);
+            Console.Clear();
+        }
 
+        public static void Battle_Start_Counter()
+        {
+            int start_Battle_Counter = 3;
+            //Játék előtti számolás móka kijelzés
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Battle Start in: " + start_Battle_Counter);
+                start_Battle_Counter--;
+                Thread.Sleep(1000);
+                Console.Clear();
+            }
+            //Pályák megtervezése/felosztása
+            Random_Battlefield(battlefield_Player);
+            Random_Battlefield(battlefield_CPU);
+        }
         public static void Input_PlayerTwo()
         {
         back:
