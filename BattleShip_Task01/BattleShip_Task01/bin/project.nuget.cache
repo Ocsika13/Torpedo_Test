@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tDirbXU3S6A=",
+  "success": true,
+  "projectFilePath": "C:\\C# ChatGPT Tasks\\Kalydy_Oktatás\\BattleShip_Task01\\BattleShip_Task01\\BattleShip_Task01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ocsovszkit\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.5\\microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "C:\\Users\\ocsovszkit\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\ocsovszkit\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.5\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

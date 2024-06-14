@@ -1,0 +1,2 @@
+C:\Torpedo\BattleShip_Task01.exe
+C:\Torpedo\BattleShip_Task01.pdb

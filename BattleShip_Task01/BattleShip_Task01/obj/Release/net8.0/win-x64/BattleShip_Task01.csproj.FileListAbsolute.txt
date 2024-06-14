@@ -1,0 +1,14 @@
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\bin\Release\net8.0\win-x64\BattleShip_Task01.exe
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\bin\Release\net8.0\win-x64\BattleShip_Task01.deps.json
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\bin\Release\net8.0\win-x64\BattleShip_Task01.runtimeconfig.json
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\bin\Release\net8.0\win-x64\BattleShip_Task01.dll
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\bin\Release\net8.0\win-x64\BattleShip_Task01.pdb
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Release\net8.0\win-x64\BattleShip_Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Release\net8.0\win-x64\BattleShip_Task01.AssemblyInfoInputs.cache
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Release\net8.0\win-x64\BattleShip_Task01.AssemblyInfo.cs
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Release\net8.0\win-x64\BattleShip_Task01.csproj.CoreCompileInputs.cache
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Release\net8.0\win-x64\BattleShip_Task01.dll
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Release\net8.0\win-x64\refint\BattleShip_Task01.dll
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Release\net8.0\win-x64\BattleShip_Task01.pdb
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Release\net8.0\win-x64\BattleShip_Task01.genruntimeconfig.cache
+C:\C# ChatGPT Tasks\Kalydy_Oktatás\BattleShip_Task01\BattleShip_Task01\obj\Release\net8.0\win-x64\ref\BattleShip_Task01.dll
